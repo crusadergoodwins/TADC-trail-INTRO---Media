@@ -1,0 +1,41 @@
+TAUNT1                 ="Deploy the catapults! We got a wall to knock on!"
+TAUNT2                 ="Vanguard, move up! We take what is ours!"
+TAUNT3                 ="The vanguard stands prepared. Make way for the one true king!"
+TAUNT4                 ="Soldiers take arms! Cavalry to saddle! Begin the bombardment!"
+ANGRY_SIEGE_LOST       ="My retreat is not a defeat. You have time to treat the wounded."
+ANGRY_CASTLE_DAMAGED   ="The keep is under attack! Pikes in front! Stay resolute."
+DEFEAT                 ="Allow a doomed man one final wish. Kill me with dignity!"
+NERV_PRE_SIEGE         ="These are brave men at out gates! Let's make them respect us!"
+NERV_WEAK              ="I don't see an easy way out... But hardships never stopped me before!"
+VICTORY_GOOD           ="Enough fighting, my lord. You can't stop destiny!"
+VICTORY_HARASS         ="This is not a war! This... is pest control!"
+KILL_PLAYER            ="It is over, my lord. Now bend the knee and join our triumph."
+KILL_NPC               ="Stories are about to become reality! Brace yourself, for the return of the king!"
+My master has need of the following goods. Please sent them immediately.
+My master informs you that the goods you dispatched have arrived.
+My master is lain to rest. You must continue the fight without him.
+My master congratulates you on your recent triumph.
+My master informs you that he has dispatched one of our adversaries.
+My master requests your immediate assistance.
+My master wishes you a merry Christmas.
+Pah..
+What ?
+My master is about to lay siege to one of our enemies castles.
+My master informs you…he cannot possibly attack.
+My master informs you…he will not be attacking today.
+My master informs you.. He cannot help you.
+My master informs you.. He will not help you.
+My master will not be sending the goods you asked for.
+My master has sent you your supplies.
+My master thinks we are winning this war.
+My master thinks we are losing this war.
+My masters troops have been dispatched to your aid.
+My master agrees.
+NICKNAME1              =", Derelict Prince"
+NICKNAME2              =", Lost Prince"
+NICKNAME3              =", Elder Prince"
+NICKNAME4              =", Missing Prince"
+NICKNAME5              =", First Prince"
+NICKNAME6              ="of Ahrameut"
+NICKNAME7              =", Vagabond Prince"
+NICKNAME8              =", Stray Prince"
